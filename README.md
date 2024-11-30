@@ -1,7 +1,7 @@
 🚨 Countdown to IPL Auction 2025! 🏏💰
 As we gear up for tomorrow's IPL auction, I can't help but reflect on an incredible journey analyzing IPL auction data from 2014 to 2024. 📊✨
-This deep dive into a decade of IPL auctions was a collaborative effort under the mentorship of Dr. Anil Jadhav and alongside my amazing colleagues Shouvik Kapat and Pranay Goswami. Together, we explored fascinating trends, decoded team strategies, and uncovered valuable insights that reveal the evolution of the IPL auction landscape.
-Our analysis provided answers to key questions:
+I explored fascinating trends, decoded team strategies, and uncovered valuable insights that reveal the evolution of the IPL auction landscape.
+Analysis provided answers to key questions:
 Which players commanded the highest bids over the years, and why?
 How have team compositions and bidding strategies shifted?
 What patterns have emerged in player performance versus their auction prices?
